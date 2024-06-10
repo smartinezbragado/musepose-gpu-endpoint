@@ -1,0 +1,6 @@
+runpod
+firebase_admin
+pydantic
+moviepy
+loguru
+transformers>=4.41
