@@ -13,16 +13,16 @@ To see MusePose in action, check out the following examples:
 - **Input image**: Reference image  
 
 
-    <img width="640" height="480" controls>
-    <source src="examples/input_image.png" type="image/png">
-    </img>
+  <img src="examples/input_image.png" width="640" height="480" alt="Input Image">
+
 
 
 - **Motion Sequence**: Motion sequence  
 
 
-  <video width="640" height="480" controls>
+<video width="640" height="480" controls>
     <source src="examples/motion_sequence.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
 
 
@@ -31,6 +31,7 @@ To see MusePose in action, check out the following examples:
 
   <video width="640" height="480" controls>
     <source src="examples/dance_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
   
   ## API Endpoint Description
