@@ -1,4 +1,3 @@
 *.ipynb
-*.mp4
 venv/*
 images/
